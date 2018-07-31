@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "101969792797",
+    "firebase_url": "https://requestdatabase-51637.firebaseio.com",
+    "project_id": "requestdatabase-51637",
+    "storage_bucket": "requestdatabase-51637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101969792797:android:1ae120dd2d296782",
+        "android_client_info": {
+          "package_name": "com.example.phoenix.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101969792797-ggcekjhfj267ioqhj0ae760qqlhgp47q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phoenix.maps",
+            "certificate_hash": "f0e717aeb599c5a307e63a37d96d01a89c895098"
+          }
+        },
+        {
+          "client_id": "101969792797-jb30jo77rebakik2kg6o84t25e4tpn6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1-G69qFDY3XhNvEEi-8vy7-lpO9-niDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101969792797-jb30jo77rebakik2kg6o84t25e4tpn6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101969792797:android:86d51be474c06d4f",
+        "android_client_info": {
+          "package_name": "com.example.phoenix.requestdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101969792797-60b1ncf97lhq8dq097a8g2aclvc6bco8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phoenix.requestdatabase",
+            "certificate_hash": "f0e717aeb599c5a307e63a37d96d01a89c895098"
+          }
+        },
+        {
+          "client_id": "101969792797-jb30jo77rebakik2kg6o84t25e4tpn6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1-G69qFDY3XhNvEEi-8vy7-lpO9-niDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101969792797-jb30jo77rebakik2kg6o84t25e4tpn6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
